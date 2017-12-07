@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+
     <title>Mon super site</title>
+    <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
 
